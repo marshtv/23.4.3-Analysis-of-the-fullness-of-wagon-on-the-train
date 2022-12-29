@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "23_4_3_Analysis_of_the_fullness_of_wagon_on_the_train",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "23_4_3_Analysis_of_the_fullness_of_wagon_on_the_train::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23_4_3_Analysis_of_the_fullness_of_wagon_on_the_train-Debug-32b4860c19027f78a892.json",
+					"name" : "23_4_3_Analysis_of_the_fullness_of_wagon_on_the_train",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/23 Macroses/23.4.3 Analysis of the fullness of wagon on the train/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/23 Macroses/23.4.3 Analysis of the fullness of wagon on the train"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
